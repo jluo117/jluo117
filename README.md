@@ -2,7 +2,13 @@
 - Grad Student @CSUCR. 
 - Doing research on Computer Networks
 <!--START_SECTION:waka-->
-
+```text
+Python     5 hrs 42 mins   ████████████████░░░░░░░░░   63.41 % 
+C          2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 % 
+YAML       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Markdown   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Bash       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+```
 <!--END_SECTION:waka-->
 <!--
 **jluo117/jluo117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
