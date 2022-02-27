@@ -3,11 +3,10 @@
 - Doing research on Computer Networks
 <!--START_SECTION:waka-->
 ```text
-Python     7 hrs 8 mins    █████████████████▒░░░░░░░   69.86 % 
-C          2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.19 % 
-YAML       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Markdown   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Bash       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python     7 hrs 6 mins    ██████████████████░░░░░░░   72.63 % 
+C          2 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.20 % 
+Markdown   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Bash       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
 <!--
