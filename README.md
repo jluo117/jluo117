@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Grad Student @CSUCR. 
-- Doing research on Computer Networks
+- Doing research on Computer Networks and AR
 <!--START_SECTION:waka-->
 
 ```text
