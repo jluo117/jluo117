@@ -4,12 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         38 mins         ███████████████▒░░░░░░░░░   61.78 %
-Python       13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-Makefile     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-C++          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
