@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash   0 secs          ███████████████▓░░░░░░░░░   62.27 %
+YAML   0 secs          █████████▒░░░░░░░░░░░░░░░   37.73 %
 ```
 
 <!--END_SECTION:waka-->
