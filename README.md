@@ -1,6 +1,5 @@
 ### Hi there 👋
-- Grad Student @CSUCR. 
-- Doing research on Computer Networks and AR
+- SWE @Meta Horizon
 <!--START_SECTION:waka-->
 
 ```text
